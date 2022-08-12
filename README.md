@@ -10,4 +10,4 @@ To build and see the results of this project, follow the following steps.
 1. Check out the original Otto Search Source code over at / look at a demonstration of the source code: https://replit.com/@RealityIncorpor/Ultraviolet-Node-4?v=1
 2. Fork the project / Create a Replit account.
 3. Make your changes to the project. Everything is fully customizable.
-4. Publish it and credit the developers.
+4. Publish it and credit the developers (in this case, Reality Incorporated LLC).
