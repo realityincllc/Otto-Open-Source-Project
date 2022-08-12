@@ -11,3 +11,9 @@ To build and see the results of this project, follow the following steps.
 2. Fork the project / Create a Replit account.
 3. Make your changes to the project. Everything is fully customizable.
 4. Publish it and credit the developers (in this case, Reality Incorporated LLC).
+
+
+
+# Questions
+Where can I find the original Otto search?
+https://ottosearch.tk is where you can find it.
