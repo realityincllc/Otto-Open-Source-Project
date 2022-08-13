@@ -1,5 +1,5 @@
 # Introduction
-Thanks for checking out Otto Open Source Project! Otto is a search engine that combats Google & Duckduckgo in Privacy, it is also very lightweight. We would also want to make it open source.
+Thanks for checking out Otto Open Source Project! Otto is a search engine that combats Google & Duckduckgo in Privacy, it is also very lightweight. We also want to make it open source.
 
 
 # Browsing the code:
