@@ -11,4 +11,8 @@ Fork the project / Create a Replit account.
 Make your changes to the project. Everything is fully customizable.
 Publish it and credit the developers (in this case, Reality Incorporated LLC).
 # Questions
-Where can I find the original Otto search? https://ottosearch.tk is where you can find it.
+Where can I find the original Otto search? 
+https://ottosearch.tk is where you can find it.
+
+Where can I find the Search function?
+https://github.com/realityincllc/OOSP-Otto-Search-Function is where you can find it.
